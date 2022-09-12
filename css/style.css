@@ -24,4 +24,21 @@ thead{
 .righe{
     background-color: #B1E5F2;
 }
+#computer{
+    background-image: url(../img/monitor.jpg);
+    background-position: left;
+    background-repeat: no-repeat;
+    background-size: 250px;
+    height: 150px;
+    color: white;
+    margin-bottom: 1cm;
+}
+#chat{
+    background-image: url(../img/graph.jpg);
+    background-position: left;
+    background-repeat: no-repeat;
+    background-size: 250px;
+    height: 150px;
+    color: white;
+}
 
