@@ -41,4 +41,7 @@ thead{
     height: 150px;
     color: white;
 }
+table{
+    border-collapse: collapse;
+}
 
